@@ -1,0 +1,7 @@
+log file for run starting at time 1601295568.6980672
+2020-09-28 15:19:30.471139 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C16ABAE00> Open order request failed try again
+2020-09-28 15:19:32.749043 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C16254780> Open order request failed try again
+2020-09-28 15:19:34.591111 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C162872C0> Open order request failed try again
+2020-09-28 15:19:38.028664 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C1628E300> Open order request failed try again
+2020-09-28 15:19:39.877033 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C161C3F40> Open order request failed try again
+2020-09-28 15:19:41.716765 | {"code":-2014,"msg":"API-key format invalid."} <traceback object at 0x0000021C15F95A40> Open order request failed try again
