@@ -1,8 +1,8 @@
 from binance.client import Client
 from pprint import pprint as p
 
-api_key = "8SqwIw1lYhaxQZa9LSCUx2wjN1GqguDDAuewtKUCKmUlO4uwXoQ3ylz0EfspuPQd"
-api_secret = "5Phlc0ldADa6rQYJANguTIe1mSekiSTN2SiaowBPcs2gXi3wsgQ2TCQssmo4BwX7"
+api_key = "6c3e1213f188986ea22606f0b8a7cd09b6e3db047eafe4003bdafa0ef393a530"
+api_secret = "079351a2e33673248f1c2e4b4a8f30b65819e4d3461eca0de8722c4105d56220"
 
 if __name__ == "__main__":
     # this would result in verify: False and timeout: 5 for the get_all_orders call

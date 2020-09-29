@@ -1,0 +1,9 @@
+log file for run starting at time 1601402879.6569214
+2020-09-29 21:08:00.581076 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D66AACB00> Open order request failed try again
+2020-09-29 21:08:02.470320 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D662773C0> Open order request failed try again
+2020-09-29 21:08:05.183032 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D65F0D2C0> Open order request failed try again
+2020-09-29 21:08:06.979256 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D6623F640> Open order request failed try again
+2020-09-29 21:08:09.752256 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D66249040> Open order request failed try again
+2020-09-29 21:08:11.528876 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D66AB69C0> Open order request failed try again
+2020-09-29 21:08:13.812120 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D661AB940> Open order request failed try again
+2020-09-29 21:08:16.048673 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x0000020D65F110C0> Open order request failed try again

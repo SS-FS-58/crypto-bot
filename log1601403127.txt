@@ -1,0 +1,4 @@
+log file for run starting at time 1601403127.8532317
+2020-09-29 21:12:20.789963 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x000001E7C838BEC0> Open order request failed try again
+2020-09-29 21:15:16.232396 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x000001E7C8385440> Open order request failed try again
+2020-09-29 21:21:21.465541 | {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."} <traceback object at 0x000001E7C7515800> Open order request failed try again
