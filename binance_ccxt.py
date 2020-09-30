@@ -4,8 +4,8 @@ from datetime import datetime
 # api_key = "Q4Mu8mTjZgXxry8YEZnNdxUwmHs9NEUioesjaxCErqMqK2zMZL3VmrFf9IKONFBI"
 # api_secret = "sVoJtkq6Wr5sjnLKam5g58l4tRu0NtEYVWNWtJz9PkL2ZYkvSkBmhNnCAZMIj3eq"
 
-api_key = "6c3e1213f188986ea22606f0b8a7cd09b6e3db047eafe4003bdafa0ef393a530"
-api_secret = "079351a2e33673248f1c2e4b4a8f30b65819e4d3461eca0de8722c4105d56220"
+api_secret = "6c3e1213f188986ea22606f0b8a7cd09b6e3db047eafe4003bdafa0ef393a530"
+api_key = "079351a2e33673248f1c2e4b4a8f30b65819e4d3461eca0de8722c4105d56220"
 
 
 
